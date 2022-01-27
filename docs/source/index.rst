@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to ROvACC Training Documents!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Welcome text ...
 
 .. note::
 
@@ -18,5 +12,9 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Introduction
+   ACT Career Path in ROvACC
+   STUDENT 1 (DEL & GND controller)
+   STUDENT 2 (TWR controller)
+   STUDENT 3 (APP controller)
+   CONTROLLER 1 (CTR controller)
