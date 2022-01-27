@@ -3,8 +3,9 @@
 # -- Project information
 
 project = 'ROvACC Training Docs'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ROvACC Training Docs'
+copyright = '2021, rovacc.ro'
+author = 'ROvACC Training Department'
 
 release = '0.1'
 version = '0.1.0'
