@@ -14,8 +14,5 @@ Contents
 
    introduction
    career
-   STUDENT 1 (DEL & GND controller)
-   STUDENT 2 (TWR controller)
-   STUDENT 3 (APP controller)
-   CONTROLLER 1 (CTR controller)
+   student_1
 
