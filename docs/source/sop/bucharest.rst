@@ -53,8 +53,6 @@ The dynamics of work, while respecting specific skills possessed by reason of th
 Squawk Code Assignment:
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-(S)VFR Aircraft are to be assigned Squawk Code between 6701-6077.
-
 .. list-table:: Squawk assigments
    :header-rows: 1
 
@@ -104,6 +102,9 @@ Runway in use, Transition Altitude and Transition Level
 
 Both TWRs shall select the optimal runway in use, considering the wind component and the RVR at the airport.
 
+| Traffic at LRBS will be accommodated based on the traffic at LROP.
+| Departures from LRBS runway 07 will be instructed to turn at safety altitude to heading 080 so they proceed on a parallel track with the departures from LROP.
+
 .. list-table:: Transition Level
    :header-rows: 1
 
@@ -118,4 +119,33 @@ Both TWRs shall select the optimal runway in use, considering the wind component
    * - > 995 hPa - < 1013 hPa
      - FL 50
 
+Air Space Organization & Operative Sectors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The area of responsibility is divided vertically as follows:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Area
+     - Vertical Limits
+     - Airspace Classification
+   * - LIR
+     - SFC to FL105
+     - G
+   * - UIR
+     - FL105 to FL660
+     - C
+   * - UIR
+     - FL660 to UNL
+     - C
+   * - TMA
+     - 2000ft AMSL to FL175
+     - A
+   * - CTR
+     - SFC to 2000ft AMSL
+     - C
+   * - Route ATS
+     - MEA/MEL to FL660
+     - C
 
