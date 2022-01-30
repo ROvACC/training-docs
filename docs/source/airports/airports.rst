@@ -6,39 +6,39 @@ LRBB FIR Airports
    :caption: 2.1 Arad TMA
    :glob:
 
-   airports/arad-tma/*
+   arad-tma/*
 
 .. toctree::
    :maxdepth: 3
    :caption: 2.2 Bucharest TMA
    :glob:
 
-   airports/bucharest-tma/*
+   bucharest-tma/*
 
 .. toctree::
    :maxdepth: 3
    :caption: 2.3 Constanta TMA
    :glob:
 
-   airports/constanta-tma/*
+   constanta-tma/*
 
 .. toctree::
    :maxdepth: 3
    :caption: 2.4 Napoc TMA
    :glob:
 
-   airports/napoc-tma/*
+   napoc-tma/*
 
 .. toctree::
    :maxdepth: 3
    :caption: 2.5 Procedural
    :glob:
 
-   airports/procedural/*
+   procedural/*
 
 .. toctree::
    :maxdepth: 3
    :caption: 2.6 Uncontrolled
    :glob:
 
-   airports/uncontrolled/*
+   uncontrolled/*
