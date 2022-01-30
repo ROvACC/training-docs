@@ -11,7 +11,7 @@ Contents
 --------
 
 .. toctree::
-   :caption: 1: Training
+   :caption: 1. Training
    :maxdepth: 1
 
    introduction
@@ -21,7 +21,7 @@ Contents
    student_3
 
 .. toctree::
-   :caption: 2: Airports
+   :caption: 2. Airports
    :maxdepth: 1
 
-   airport/airport.rst
+   airports/airports.rst
