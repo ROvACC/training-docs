@@ -115,9 +115,9 @@ Both TWRs shall select the optimal runway in use, considering the wind component
    * - > 977 hPa - <= 995 hPa
      - FL 060
    * - > 995 hPa - < 1013 hPa
-     - FL 55
-   * - > 995 hPa - < 1013 hPa
-     - FL 50
+     - FL 055
+   * - >= 1013 hPa
+     - FL 050
 
 Air Space Organization & Operative Sectors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -132,20 +132,57 @@ The area of responsibility is divided vertically as follows:
      - Airspace Classification
    * - LIR
      - SFC to FL105
-     - G
+     - Class G
    * - UIR
      - FL105 to FL660
-     - C
+     - Class C
    * - UIR
      - FL660 to UNL
-     - C
+     - Class C
    * - TMA
      - 2000ft AMSL to FL175
-     - A
+     - Class A
    * - CTR
      - SFC to 2000ft AMSL
-     - C
+     - Class C
    * - Route ATS
      - MEA/MEL to FL660
-     - C
+     - Class C
 
+The table below provides an overview of the above classes, and the specifications for each.
+
+.. list-table::
+   :header-rows: 1
+
+   * - Airspace Classification
+     - Controlled
+     - IFR
+     - SVFR
+     - VFR
+     - ATC clearance
+     - Separation
+     - Traffic information
+   * - Class A
+     - YES
+     - YES
+     - NO
+     - NO
+     - Required
+     - Provided for all flights
+     - N/A
+   * - Class C
+     - YES
+     - YES
+     - YES
+     - YES
+     - Required
+     - Provided for all IFR/SVFR to IFR/SVFR/VFR
+     - Provided for all VFR
+   * - Class G
+     - NO
+     - YES
+     - NO
+     - YES
+     - Not provided
+     - Not provided
+     - Provided where possible if requested
