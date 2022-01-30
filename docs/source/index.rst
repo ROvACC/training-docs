@@ -16,4 +16,5 @@ Contents
    introduction
    career
    student_1
+   student_2
 
