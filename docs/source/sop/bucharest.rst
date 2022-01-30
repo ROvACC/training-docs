@@ -11,9 +11,10 @@ The transfer with other ATC station inside Romanian Airspace will be used the pr
 Acronyms and Abbreviations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**IFR**: Instrumental Flight Rules
-**VFR**: Visual Flight Rules
-**SVFR**: Special Visual Flight Rules - Only TMA Bucuresti
+| **IFR**: Instrumental Flight Rules
+| **VFR**: Visual Flight Rules
+| **SVFR**: Special Visual Flight Rules - Only TMA Bucuresti
+
 **vACC**: Virtual Area Control Center
 **PSR**: Primary Surveillance Radar
 **SSR**: Secondary Surveillance Radar
