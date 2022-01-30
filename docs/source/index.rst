@@ -18,3 +18,5 @@ Contents
    student_1
    student_2
 
+.. toctree::
+   :maxdepth: 1
