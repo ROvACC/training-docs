@@ -69,7 +69,7 @@ Runway in use, Transition Altitude and Transition Level
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 | Bucharest LROP has 2 runway, 08L/26R and 08R/26L.
-| Transition level for LROP is 4000 ft
+| Transition altitude for LROP is 4000 ft
 
 .. list-table:: LROP runway configuration
    :header-rows: 1
@@ -84,8 +84,8 @@ Runway in use, Transition Altitude and Transition Level
      - 26R
      - 26L
 
-| Bucharest LRBS has 1 runway, 07 and 25
-| Transition level for LRBS is 4000 ft
+| Bucharest LRBS has 1 runway, 07/25
+| Transition altitude for LRBS is 4000 ft
 
 .. list-table:: LRBS runway configuration
    :header-rows: 1
@@ -100,7 +100,7 @@ Runway in use, Transition Altitude and Transition Level
      - 25
      - 25
 
-Both TWRs shall select the optimal runway in use, considering the wind component and the RVR at the airport.
+Both TWRs shall select the optimal runway in use, considering the wind component and the RVR at the airports.
 
 | Traffic at LRBS will be accommodated based on the traffic at LROP.
 | Departures from LRBS runway 07 will be instructed to turn at safety altitude to heading 080 so they proceed on a parallel track with the departures from LROP.
