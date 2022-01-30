@@ -22,6 +22,6 @@ Contents
 
 .. toctree::
    :caption: 2. Airports
-   :maxdepth: 1
+   :maxdepth: 2
 
    airports/airports.rst
