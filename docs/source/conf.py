@@ -2,10 +2,9 @@
 
 # -- Project information
 
-project = 'ROvACC Training Docs'
-project = 'ROvACC Training Docs'
-copyright = '2021, rovacc.ro'
-author = 'ROvACC Training Department'
+project = 'ROvACC Documents'
+copyright = '2015-2022, rovacc.ro'
+author = 'ROvACC Staff'
 
 release = '0.1'
 version = '0.1.0'
