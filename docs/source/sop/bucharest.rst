@@ -154,35 +154,33 @@ The table below provides an overview of the above classes, and the specification
 .. list-table::
    :header-rows: 1
 
-   * - Airspace Classification
+   * - Airspace
      - Controlled
      - IFR
-     - SVFR
-     - VFR
+     - (S)VFR
      - ATC clearance
      - Separation
      - Traffic information
-   * - Class A
+   * - A
      - YES
      - YES
-     - NO
      - NO
      - Required
      - Provided for all flights
      - N/A
-   * - Class C
-     - YES
+   * - C
      - YES
      - YES
      - YES
      - Required
      - Provided for all IFR/SVFR to IFR/SVFR/VFR
      - Provided for all VFR
-   * - Class G
+   * - G
      - NO
      - YES
-     - NO
      - YES
      - Not provided
      - Not provided
      - Provided where possible if requested
+
+
