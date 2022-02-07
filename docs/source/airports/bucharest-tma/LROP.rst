@@ -39,9 +39,9 @@ APP is responsible for air traffic service in TMA Bucharest, classified as Class
 Area charts
 """""""""""
 
-.. image::/images/CTR_Otopeni_chart.jpg
+.. image:: ../images/CTR_Otopeni_chart.jpg
 
-.. image::/images/TMA_Bucuresti.jpg
+.. image:: ../images/TMA_Bucuresti.jpg
 
 ATIS
 """"
@@ -56,6 +56,8 @@ The airport has two runways: Runway No. 1 (08R/26L) and Runway No. 2 (08L/26R).
 For operational purposes (short taxiing distance from apron to runway and heavy amount of traffic from the west part of the airport) it is preferred to use direction 08. Thus, if the wind does not exceed 6-7 kts, favorable for direction 26, direction 08 is kept in use.
 
 Aircraft with code higher than aerodrome code 4D (wingspan greater than 52m and outer main gear wheel span OMGWS greater than 9m) shall vacate RWY 08R via TWY D, otherwise, shall wait for towing and will shut down engines 1 and 4. If aircraft code is less than 4D, pilot may decide to do backtrack using turn pad 26L and vacate runway via TWY D.
+
+Examples of aircrafts which have code 4D or higher: A124, A225, A33x, A34x, A35x, A388, AN22, B2, B52, B74x, B77x, B78x, C5.
 
 Operational use of intersection take-offs: all jet aircraft must use the full runway length available for noise abatement reasons. Take-offs from intersection with taxiway may be allowed at ATC discretion (for operational reasons) or pilot request. TWY V and TWY W are exit only taxiways. From TWY W and TWY V is not allowed to take-off.
 
@@ -183,11 +185,11 @@ Traffic regulation
 
 In real life, LROP airport is closed for VFR traffic.
 
-On VATSIM, VFR traffic is permitted to fly at LROP. 
+On VATSIM, VFR traffic is permitted to fly at LROP, only if IFR workload permits. 
 
 VFR aircrafts shall request clearance from DEL. The maximum cleared altitude which a VFR could climb in CTR Otopeni is 1500 ft (AMSL) by QNH, to maintain the minimum vertical separation between aircrafts in  (minimum descend at 2500 ft by QNH) and below TMA.
 
-Traffic pattern is allowed only in the North side of the airport and performed only on runway no. 2 (08L / 26R).
+Traffic pattern is allowed only in the North side of the airport and performed only on runway no. 2 (08L / 26R). It is forbidden when doing VFR traffic pattern to cross the extended centerline of the adjacent runway.
 
 In the South of Bucharest Henri Coanda Airport, there is LRTRA4 area, restricted area activated by ATC from the ground until 1017 ft AMSL. If it is active, arrival traffic at runway no. 1 (08R/26L) will not be affected.
 
@@ -195,4 +197,4 @@ TWR Unit shall control VFR traffic which fly in CTR Otopeni. Below, you can read
 
 In CTR Otopeni, ATC expects pilots to know the class of airspace, VFR reporting points and runway crossing routes. OGUPI-RIRUX is used only by state aircrafts (SMURD, MAE, MAI, SRI - helicopters). SORUR-ROTBI and GOTOB-UNUSU are available only at 1000 ft AMSL (by QNH).
 
-.. image::/images/CTR_Otopeni_chart.jpg
+.. image:: ../images/CTR_Otopeni_chart.jpg
