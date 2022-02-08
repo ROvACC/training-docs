@@ -28,7 +28,7 @@ Frequencies
 Area of Responsability
 """"""""""""""""""""""
 
-DEL is responsible for approving Flight Plans are reading clearances.
+DEL is responsible for approving Flight Plans and reading clearances.
 
 GND is responsible for control of air traffic on the aprons and taxiways, such as start-ups, pushbacks and taxi.
 
@@ -39,9 +39,9 @@ APP is responsible for air traffic service in TMA Bucharest, classified as Class
 Area charts
 """""""""""
 
-.. image::/images/CTR_Otopeni_chart.jpg
+.. image:: ../../images/CTR_Otopeni_chart.jpg
 
-.. image::/images/TMA_Bucuresti.jpg
+.. image:: ../../images/TMA_Bucuresti.jpg
 
 ATIS
 """"
@@ -87,7 +87,7 @@ Taxiing of aircraft with wingspan greater than 52 m is not allowed on TWY C.
 
 During LVP, ATC shall instruct pilots to follow the Follow Me car.
 
-TWY W and TWY C are used only for vacating runway. Do not instruct aircrafts to enter runway via TWY V or TWY W.
+TWY W and TWY V are used only for vacating runway. Do not instruct aircrafts to enter runway via TWY V or TWY W.
 
 Stand assignments
 """""""""""""""""
@@ -195,4 +195,4 @@ TWR Unit shall control VFR traffic which fly in CTR Otopeni. Below, you can read
 
 In CTR Otopeni, ATC expects pilots to know the class of airspace, VFR reporting points and runway crossing routes. OGUPI-RIRUX is used only by state aircrafts (SMURD, MAE, MAI, SRI - helicopters). SORUR-ROTBI and GOTOB-UNUSU are available only at 1000 ft AMSL (by QNH).
 
-.. image::/images/CTR_Otopeni_chart.jpg
+.. image:: ../../images/CTR_Otopeni_chart.jpg
