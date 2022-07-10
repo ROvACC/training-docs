@@ -31,7 +31,7 @@ APP is responsible for air traffic service in TMA NAPOC, classified as Class C A
 Area charts
 """""""""""
 
-.. image::images/CTR_Cluj_VFR.png
+.. image:: ../../images/CTR_Cluj_VFR.png
 
 ATIS
 """"
