@@ -63,7 +63,7 @@ Squawk Code Assignment:
    * - 4001 - 4077
      - 5401 - 5477
      - 3601 - 3677
-     - 6701 - 6077
+     - 6701 - 6777
 
 Runway in use, Transition Altitude and Transition Level
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
