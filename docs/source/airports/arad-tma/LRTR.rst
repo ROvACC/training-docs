@@ -106,4 +106,4 @@ CTR Timisoara is classified as Class C Airspace where both IFR and VFR are allow
 
 CTR Timisoara lower limit is the ground level and the upper limit is 2500 ft AMSL (by QNH).
 
-VFR traffic circuits are allowed in the north side of the airport, at 1500 ft AMSL (by QNH). VFR traffic could be cleared to climb in TMA only by APP unit. A coordination between TWR and APP units shall be in force.
+VFR traffic circuits are allowed on the north side of the airport, at max 1500 ft AMSL (by QNH). VFR traffic could be cleared to climb in TMA only by the APP unit. Coordination between TWR and APP units shall be in force.
