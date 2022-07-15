@@ -4,7 +4,7 @@ LRAR - Arad International
 General
 """""""
 
-Arad Airport it is one of those airports in Romania where there is not much international traffic and where not many airlines operate. However, the airport is an important point in air navigation service because it is a provider for control in TMA Arad and soon for the first Virtual Tower in the country.
+Arad Airport, while being an international one, is not an airport regularly operated by any of the commercial airlines. However, the airport is an important point in air navigation service as it is a provider for control in TMA Arad and soon for the first Virtual Tower in the country.
 
 Frequencies
 """""""""""
