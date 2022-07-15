@@ -74,7 +74,7 @@ Both RNAV and conventional SIDs are available, but RNAV are highly recommended. 
 Taxi
 """"
 
-Departing and arrived traffic shall be instructed to follow standard taxi routes available on AIP LR AD 2.13-8.
+Departing and arriving traffic shall be instructed to follow standard taxi routes available on AIP LR AD 2.13-8.
 
 Stand assignments
 """""""""""""""""
