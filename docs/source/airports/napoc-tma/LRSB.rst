@@ -105,4 +105,4 @@ CTR Sibiu lower limit is the ground level and the upper limit is 3000 ft AMSL (b
 
 On the area chart there are all VFR points in CTR Sibiu. An extented map of whole TMA VFR Routes could be find on AIP LR ENR 6-70.
 
-VFR traffic circuits are allowed in the north side of the airport, at 2500 ft AMSL (by QNH). VFR traffic could be cleared to climb in TMA only by APP unit. A coordination between TWR and APP units shall be in force.
+VFR traffic circuits are allowed on the north side of the airport, at max. 2500 ft AMSL (by QNH). VFR traffic could be cleared to climb in TMA only by the APP unit. Coordination between TWR and APP units shall be in force.
