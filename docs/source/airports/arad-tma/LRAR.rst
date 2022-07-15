@@ -4,7 +4,7 @@ LRAR - Arad International
 General
 """""""
 
-Arad Airport it is one of those airports in Romania where there is not much international traffic and where not many airlines operate. However, the airport is an important point in air navigation service because it is a provider for control in TMA Arad and soon for the first Virtual Tower in the country.
+Arad Airport, while being an international one, is not an airport regularly operated by any of the commercial airlines. However, the airport is an important point in air navigation service as it is a provider for control in TMA Arad and soon for the first Virtual Tower in the country.
 
 Frequencies
 """""""""""
@@ -91,4 +91,4 @@ CTR Arad is classified as Class C Airspace where both IFR and VFR are allowed to
 
 CTR Cluj lower limit is the ground level and the upper limit is 2500 ft AMSL (by QNH).
 
-VFR traffic circuits are allowed at 1500 ft AMSL (by QNH). VFR traffic could be cleared to climb in TMA only by APP unit. A coordination between TWR and APP units shall be in force.
+VFR traffic circuits are allowed at max 1500 ft AMSL (by QNH). VFR traffic could be cleared to climb in TMA only by the APP unit. Coordination between TWR and APP units shall be in force.
