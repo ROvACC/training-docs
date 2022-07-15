@@ -3,7 +3,7 @@ LRSB - Sibiu International
 General
 """""""
 
-Sibiu Airport is the second airport in Transylvania region. It is in the North of the Transylvanian Alps and the main airport of Sibiu, an impotant cultural and economic center from the South of Transilvania.
+Sibiu Airport is the second airport in Transylvania region. It is located in the North of the Transylvanian Alps and the main airport of Sibiu, an essential cultural and economic center from the South of Transilvania.
 
 Frequencies
 """""""""""
