@@ -19,6 +19,7 @@ Contents
    student_1
    student_2
    student_3
+   controller_1
 
 .. toctree::
    :caption: 2. Airports
