@@ -27,7 +27,7 @@ TMA Controller (S3)
 *******************
 * Any S2 member needs to complete at least 75 hours of VATSIM controlling during a period of one month in order to request to move to the S3 training phase
 
-  * The student needs to control the TWR positions for the major airport and all other non-procedural TWR positions
+  * The student needs to control the TWR positions for the major airport and all other non-procedural TWR positions in LRBB FIR
 
 * The student needs to successfully pass the S3 ATSIMTEST theoretical exam in order to begin practical training
 
@@ -43,6 +43,7 @@ Enroute Controller (C1)
 * Any S3 member needs to complete at least 100 hours of VATSIM controlling during a period of one month in order to request to move to the C1 training phase
 
   * The student needs to control the APP positions for the major airport and all other APP positions in LRBB FIR
+  * The student needs to control procedural TWR approaches in LRBB FIR
 
 * The student needs to successfully pass the C1 ATSIMTEST theoretical exam in order to begin practical training.
 
