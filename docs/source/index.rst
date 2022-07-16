@@ -26,3 +26,10 @@ Contents
    :maxdepth: 2
 
    airports/airports.rst
+   
+.. toctree::
+   :caption: About this project
+   :maxdepth: 1
+
+   about/about
+   about/how_to_update
