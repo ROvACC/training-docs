@@ -26,3 +26,10 @@ Contents
    :maxdepth: 2
 
    airports/airports.rst
+
+.. toctree::
+   :caption: Euroscope Setup
+   :maxdepth: 1
+
+   euroscope/first_install.rst
+   euroscope/airac_update
