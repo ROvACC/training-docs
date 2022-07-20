@@ -46,6 +46,8 @@ Runway operations
 
 The airport has one runway: 11/29.
 
+The maximum favorable speed for direction 11 in which runway 29 remains in use is 12 knots.
+
 Any change of the departure and/or arrival direction shall be coordinated with APP unit.
 
 Taxiway B is not used for departure traffic.
