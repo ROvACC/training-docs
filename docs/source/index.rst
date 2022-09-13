@@ -23,7 +23,7 @@ Contents
 
 .. toctree:: 
    :caption: 2. Phraseology
-   :maxdepth: 2
+   :maxdepth: 1
 
    phraseology/ground
    phraseology/tower
@@ -31,13 +31,13 @@ Contents
 
 .. toctree::
    :caption: 3. Airports
-   :maxdepth: 3
+   :maxdepth: 2
 
    airports/airports.rst
 
 .. toctree::
    :caption: Euroscope Setup
-   :maxdepth: 4
+   :maxdepth: 1
 
    euroscope/first_install.rst
    euroscope/airac_update
