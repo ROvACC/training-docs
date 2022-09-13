@@ -9,8 +9,6 @@ Timisoara Airport is the main airport in Western Romania, an important cargo hub
 Frequencies
 """""""""""
 
-
-
 +-----------------+------------------+-----------+
 | Login Call sign | Call sign        | Frequency |
 +-----------------+------------------+-----------+
