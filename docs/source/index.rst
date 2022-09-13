@@ -21,15 +21,23 @@ Contents
    student_3
    controller_1
 
-.. toctree::
-   :caption: 2. Airports
+.. toctree:: 
+   :caption: 2. Phraseology
    :maxdepth: 2
+
+   phraseology/ground
+   phraseology/tower
+   phraseology/miscellaneous
+
+.. toctree::
+   :caption: 3. Airports
+   :maxdepth: 3
 
    airports/airports.rst
 
 .. toctree::
    :caption: Euroscope Setup
-   :maxdepth: 1
+   :maxdepth: 4
 
    euroscope/first_install.rst
    euroscope/airac_update
