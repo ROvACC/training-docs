@@ -21,8 +21,16 @@ Contents
    student_3
    controller_1
 
+.. toctree:: 
+   :caption: 2. Phraseology
+   :maxdepth: 1
+
+   phraseology/ground
+   phraseology/tower
+   phraseology/miscellaneous
+
 .. toctree::
-   :caption: 2. Airports
+   :caption: 3. Airports
    :maxdepth: 2
 
    airports/airports.rst
