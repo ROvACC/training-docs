@@ -36,15 +36,10 @@ Remember
 --------
 
 **A** -> Acknowledge
-
 **S** -> Separate
-
 **S** -> Silence
-
 **I** -> Inform
-
 **S** -> Support
-
 **T** -> Time
 
 *   failure of transmitter or receiver only

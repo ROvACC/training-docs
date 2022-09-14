@@ -28,15 +28,10 @@ Remember
 --------
 
 **A** -> Acknowledge
-
 **S** -> Separate
-
 **S** -> Silence
-
 **I** -> Inform
-
 **S** -> Support
-
 **T** -> Time
 
 *   clear airspace directly beneath the aircraft

@@ -22,15 +22,10 @@ Remember
 --------
 
 **A** -> Acknowledge
-
 **S** -> Separate
-
 **S** -> Silence
-
 **I** -> Inform
-
 **S** -> Support
-
 **T** -> Time
 
 *   keep aircarft high to save fuel

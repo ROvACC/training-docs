@@ -36,15 +36,10 @@ Remember
 --------
 
 **A** -> Acknowledge
-
 **S** -> Separate
-
 **S** -> Silence
-
 **I** -> Inform
-
 **S** -> Support
-
 **T** -> Time
 
 *   is pilot able to control their aircraft?

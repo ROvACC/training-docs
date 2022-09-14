@@ -20,15 +20,10 @@ Remember
 --------
 
 **A** -> Acknowledge
-
 **S** -> Separate
-
 **S** -> Silence
-
 **I** -> Inform
-
 **S** -> Support
-
 **T** -> Time
 
 *   prepare for LOW PASS for visual inspection
