@@ -14,12 +14,12 @@ Expect
 Remember
 --------
 
-**A** -> Acknowledge
-**S** -> Separate
-**S** -> Silence
-**I** -> Inform
-**S** -> Support
-**T** -> Time
+| **A** -> Acknowledge
+| **S** -> Separate
+| **S** -> Silence
+| **I** -> Inform
+| **S** -> Support
+| **T** -> Time
 
 *   controller shall provide traffic information
 
