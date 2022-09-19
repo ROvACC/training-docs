@@ -74,15 +74,6 @@ CALLSIGN rulați către poziția de așteptare pista RWY via ...
 
 *Observation*: The main rule: DESTINATION, followed by ROUTE
 
-Transfer of Communication
--------------------------
-
-CALLSIGN contact UNIT_NAME (on) xxx.xxx.
-
-CALLSIGN chemați / comutați cu / schimbați cu UNIT_NAME (pe) xxx.xxx.
-
-*Observation*: In general, UNIT_NAME is not translated in Romanian.
-
 Taxi clearance (to stand)
 -------------------------
 
