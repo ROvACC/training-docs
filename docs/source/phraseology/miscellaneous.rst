@@ -255,7 +255,7 @@ GHEAȚĂ USCATĂ / UMEDĂ / APĂ PESTE ZĂPADĂ TASATĂ / ZĂPADĂ USCATĂ / ZĂ
 
 GROSIME (grosimea depunerii) MILIMETRI / NU ESTE RAPORTAT;
 
-ACOPERIRE ( număr) PROCENT / NU ESTE RAPORTAT;
+ACOPERIRE (număr) PROCENT / NU ESTE RAPORTAT;
 
 LĂȚIME DISPONIBILĂ (număr) METRI;
 
@@ -385,4 +385,5 @@ ADVISE IF ABLE TO PROCEED PARALLEL OFFSET // ANUNŢAŢI DACĂ PUTEŢI PROCEDA PA
 
 PROCEED OFFSET (distance) RIGHT/LEFT OF (route) (track) [CENTRE LINE] [AT (significant point or time)] [UNTIL (significant point or time)] // PROCEDAŢI OFFSET (distanţa) DREAPTA/STÂNGA DE (ruta)(traiect) [AXULUI][LA (punct semnificativ sau ora)] [PÂNĂ LA (punct semnificativ sau ora)]
 
-CANCEL OFFSET (instruction to rejoin cleared flight route or other information) // CANCEL OFFSET (instruction to rejoin cleared flight route or other information)
+CANCEL OFFSET (instruction to rejoin cleared flight route or other information) // ANULAŢI OFFSET (instrucţiuni de revenire la ruta autorizată sau alte informaţii).
+
